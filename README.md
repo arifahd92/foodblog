@@ -1,2 +1,2 @@
 # foodblog
-host Link: https://github.com/arifahd92/foodblog
+host Link: https://arifahd92.github.io/foodblog/
